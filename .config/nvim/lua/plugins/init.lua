@@ -4,6 +4,7 @@
 -- it there. The file will be loaded automatically.
 
 return {
+    'lewis6991/gitsigns.nvim',
     'tpope/vim-fugitive',
     -- LSP things
     'neovim/nvim-lspconfig',

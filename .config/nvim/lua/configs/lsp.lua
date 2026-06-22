@@ -12,6 +12,7 @@ local servers = {
     basedpyright = {},
     tsgo = {},
     copilot = {},
+    jsonnet_ls = {},
 }
 
 for k, v in pairs(servers) do

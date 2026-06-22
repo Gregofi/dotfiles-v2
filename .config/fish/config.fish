@@ -44,3 +44,8 @@ export PATH="$HOME/.local/bin:/usr/local/go/bin:$HOME/go/bin:$PATH"
 
 # opencode
 fish_add_path /home/gregofi/.opencode/bin
+
+# atuin
+# if status is-interactive
+#     atuin init fish | source
+# end
