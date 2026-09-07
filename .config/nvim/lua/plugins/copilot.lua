@@ -1,9 +1,6 @@
 local Plugin = { 'zbirenbaum/copilot.lua' }
 
 Plugin.opts = {
-    requires = {
-        "copilotlsp-nvim/copilot-lsp",
-    },
     panel = {
         enabled = false,
         -- defaults here are very dangerous, for example accept swallows enter

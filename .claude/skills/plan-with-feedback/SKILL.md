@@ -112,3 +112,4 @@ The user will then respond to you, prompting you to either do this or not.
 
 The user edits `PLAN.md` outside the conversation.
 Re-read it from disk at the start of every round, before anything else.
+The user will write simple `go` to the prompt when he responded or added new conversations.

@@ -11,7 +11,6 @@ local servers = {
     lua_ls = {},
     basedpyright = {},
     tsgo = {},
-    copilot = {},
     jsonnet_ls = {},
 }
 
